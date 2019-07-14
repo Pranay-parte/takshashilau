@@ -11,9 +11,6 @@ body {
   width: 100px;
   height: 100px;
 }
-.search input{
-  width: 200px;
-}
 .logo { grid-area: 1/1/3/2;
   padding-left: 10px;
 
